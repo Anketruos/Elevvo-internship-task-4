@@ -71,5 +71,3 @@ This project represents my growth as a developer during my time at Elevvo, combi
 
 *Built during my Elevvo Internship*  
 *Making the world better, one purr at a time!*
-
-## 📁 Project Structure
