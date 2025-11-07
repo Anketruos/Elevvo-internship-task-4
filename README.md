@@ -71,3 +71,6 @@ This project represents my growth as a developer during my time at Elevvo, combi
 
 *Built during my Elevvo Internship*  
 *Making the world better, one purr at a time!*
+
+![SS2](https://github.com/user-attachments/assets/c86bb9b4-99e4-4b63-8a18-938ebbe9fa28)
+
